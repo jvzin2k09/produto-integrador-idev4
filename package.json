@@ -1,0 +1,22 @@
+{
+  "name": "produto-integrador-idev4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvzin2k09/produto-integrador-idev4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvzin2k09/produto-integrador-idev4/issues"
+  },
+  "homepage": "https://github.com/jvzin2k09/produto-integrador-idev4#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
