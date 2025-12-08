@@ -1,0 +1,38 @@
+{
+    "grupos": [
+        {
+            "nome": "fds",
+            "integrantes": ["João V", "Sarah", "Isaque", "Arthur"],
+            "praça": "Parque da Criança",
+            "materiais": ["Isopor", "Argila", "Folhas", "Tinta"]
+        },
+       
+        {
+            "nome": "sdf",
+            "integrantes": ["João G", "Erick", "Gabriel Moreira", "Murilo"],
+            "praça": "Parque do Adulto",
+            "materiais": ["Isopor", "Argila", "Plastico", "Pompom"]
+        }, 
+
+        {
+            "nome": "dsf",
+            "integrantes": ["Azeitona", "Topeira", "Cebola", "Diego"],
+            "praça": "Parque do Idoso",
+            "materiais": ["Isopor", "Vidro", "Plastico", "Areia"]
+        },
+
+        {
+            "nome": "stf",
+            "integrantes": ["Goularte", "Hugo", "Julia", "Ryan"],
+            "praça": "Parque do Adolescente",
+            "materiais": ["Frutas", "Argila", "Plastico", "Barro"]
+        },
+
+        {
+            "nome": "Tomate",
+            "integrantes": ["João Gustavo", "Telles", "David", "Luiz"],
+            "praça": "Parque do Recem Nascido",
+            "materiais": ["Papel Sufite", "Adubo", "Água", "Papelão"]
+        }
+    ]
+}
